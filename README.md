@@ -1,1 +1,1 @@
-# SnakeGame
+# Snake Game (2D)
